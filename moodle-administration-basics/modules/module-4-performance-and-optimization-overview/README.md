@@ -4,9 +4,9 @@
 **Duration:** 60 minutes  
 **Delivery style:** Presentation, examples, and discussion
 
-### Learning Objectives
+### What You Will Be Able to Do
 
-By the end of this module, participants should be able to:
+By the end of this module, you should be able to:
 
 - Identify common reasons Moodle becomes slow.
 - Understand basic server resource concepts.
@@ -24,13 +24,13 @@ By the end of this module, participants should be able to:
 - [Basic Optimization Strategies](05-basic-optimization-strategies.md)
 
 
-### Trainer Notes
+### Hands-On Notes for You
 
 - Keep performance discussion introductory.
 - Do not attempt advanced database tuning in this course.
 - Use simple cause-and-effect examples.
 - Explain that performance planning should consider peak events, such as online exams.
-- Encourage participants to document normal baseline performance.
+- Document normal baseline performance.
 
 ### Real-World Examples
 

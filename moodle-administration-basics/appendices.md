@@ -1,33 +1,32 @@
 # Appendices
 
-## Appendix A: One-Day Trainer Checklist
+## Appendix A: One-Day Trainee Hands-On Checklist
 
-Before training:
+Before training, prepare to follow along:
 
-- Prepare Moodle demo site.
-- Create administrator, teacher, and student demo accounts.
-- Create sample course category.
-- Create sample course.
-- Prepare sample PDF or document upload.
-- Prepare sample user CSV if demonstrating upload.
-- Confirm projector and internet access.
-- Confirm demo site is not production.
-- Prepare architecture diagram.
-- Prepare troubleshooting scenarios.
+- Confirm you have access to the training Moodle demo site.
+- Confirm you know which administrator, teacher, and student demo accounts to use.
+- Identify the sample course category and sample course for hands-on work.
+- Keep a sample PDF or document ready if file upload is part of the lab.
+- Keep a sample user CSV ready if upload is part of the lab.
+- Confirm your internet access and browser are working.
+- Confirm the site is not production before changing settings.
+- Keep the architecture diagram nearby for reference.
+- Review the troubleshooting scenarios before the final practice.
 
 During training:
 
 - Keep examples simple.
-- Ask participants to connect concepts to their organization.
+- Connect each concept to your organization and support role.
 - Avoid deep code-level explanations.
 - Use short recap points after each module.
 - Keep hands-on activities controlled and safe.
 
 After training:
 
-- Share documentation and links.
-- Provide recommended next steps.
-- Collect feedback.
+- Save these notes and links for future reference.
+- Identify recommended next steps for your role.
+- Record feedback or unclear topics.
 - Record unanswered questions for follow-up.
 
 ## Appendix B: Moodle Technical Terms Glossary

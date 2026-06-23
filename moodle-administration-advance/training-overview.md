@@ -2,13 +2,13 @@
 
 ## Introduction
 
-Moodle Administration Advance is designed for technical teams responsible for reliable, secure, and scalable Moodle operations. It builds on foundational administration skills and focuses on production decision-making, operational discipline, troubleshooting, and platform lifecycle management.
+Moodle Administration Advance is designed for you if you are part of a technical team responsible for reliable, secure, and scalable Moodle operations. It builds on foundational administration skills and focuses on production decision-making, operational discipline, troubleshooting, and platform lifecycle management.
 
-The course does not teach Moodle plugin development in depth. Instead, it helps administrators understand how architecture, security configuration, caching, background processing, integrations, backups, monitoring, and upgrade planning work together in a real Moodle environment.
+The course does not teach Moodle plugin development in depth. Instead, it helps you understand how architecture, security configuration, caching, background processing, integrations, backups, monitoring, and upgrade planning work together in a real Moodle environment.
 
 ## Training Objectives
 
-After completing this training, participants should be able to:
+After completing this training, you should be able to:
 
 1. Evaluate Moodle architecture options for production environments.
 2. Apply stronger security and access-control practices.
@@ -19,7 +19,7 @@ After completing this training, participants should be able to:
 
 ## Prerequisites
 
-Participants should already understand:
+Before starting, you should already understand:
 
 - Moodle site administration basics.
 - User, role, course, activity, and category management.
@@ -52,4 +52,15 @@ Participants should already understand:
 
 ## Expected Outcomes
 
-Participants should leave with a practical framework for operating Moodle in production, including checklists for security reviews, performance investigations, upgrades, backups, monitoring, and incident response.
+You should leave with a practical framework for operating Moodle in production, including checklists for security reviews, performance investigations, upgrades, backups, monitoring, and incident response.
+
+
+## How to Use These Trainee Notes During Hands-On Training
+
+Use these advanced notes as a working reference during each scenario and lab:
+
+1. Start each module by reviewing the operational decision you are learning to make.
+2. Follow the walkthrough or scenario using a non-production Moodle environment, diagram, sample log, or runbook template.
+3. Record evidence before proposing a fix, especially for security, performance, backup, restore, and upgrade decisions.
+4. Write down validation checks and rollback conditions before treating a change as complete.
+5. Convert each checklist into an organization-specific runbook after training.

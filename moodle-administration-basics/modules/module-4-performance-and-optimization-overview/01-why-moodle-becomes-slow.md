@@ -17,4 +17,4 @@ Common causes include:
 - External integrations responding slowly.
 - Network latency or bandwidth limitations.
 
-Important trainer message: Performance troubleshooting should be evidence-based. Avoid guessing. Look at logs, monitoring, resource usage, and recent changes.
+Important trainee note: Performance troubleshooting should be evidence-based. Avoid guessing. Look at logs, monitoring, resource usage, and recent changes.

@@ -13,4 +13,4 @@ Important parts of the ecosystem include:
 - **Moodle Mobile App**: Optional mobile access for learners and teachers.
 - **Integrations**: Connections to authentication systems, student information systems, video conferencing, repositories, and reporting tools.
 
-Trainer note: Explain that Moodle is flexible because it can be configured and extended, but flexibility also means administrators must manage settings carefully.
+Trainee note: Moodle is flexible because it can be configured and extended, but flexibility also means you must manage settings carefully.

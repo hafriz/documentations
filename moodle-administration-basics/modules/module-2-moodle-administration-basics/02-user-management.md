@@ -24,7 +24,7 @@ Moodle supports multiple authentication methods. Examples include:
 | SAML / SSO | Login using institutional single sign-on |
 | OAuth2 | Login using external identity providers |
 
-Trainer note: Clarify the difference between authentication and enrolment.
+Trainee note: Clarify the difference between authentication and enrolment before diagnosing access issues.
 
 - **Authentication** answers: “Who are you, and can you log in?”
 - **Enrolment** answers: “Which courses can you access?”

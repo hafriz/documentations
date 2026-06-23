@@ -4,9 +4,9 @@
 **Duration:** 60 minutes  
 **Delivery style:** Presentation and demo
 
-### Learning Objectives
+### What You Will Be Able to Do
 
-By the end of this module, participants should be able to:
+By the end of this module, you should be able to:
 
 - Explain how Moodle can be customized.
 - Understand the role of themes.
@@ -24,7 +24,7 @@ By the end of this module, participants should be able to:
 - [Extending Moodle Features](05-extending-moodle-features.md)
 
 
-### Trainer Notes
+### Hands-On Notes for You
 
 - Keep this module practical and risk-aware.
 - Demonstrate safe customization, such as changing a logo or theme setting in a demo site.

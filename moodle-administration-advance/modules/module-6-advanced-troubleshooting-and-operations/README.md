@@ -1,16 +1,16 @@
 # Module 6: Advanced Troubleshooting and Operations
 
-## Purpose
+## Why This Module Matters to You
 
 Give teams a structured approach for diagnosing complex Moodle issues and improving operational maturity after incidents.
 
-## Learning Objectives
+## What You Will Be Able to Do
 
 - Use a repeatable incident workflow from triage to root-cause analysis.
 - Select relevant evidence from Moodle logs, server logs, metrics, and user reports.
 - Convert incident findings into durable operational improvements.
 
-## Key Topics
+## Topics You Will Practice
 
 - Incident triage, impact assessment, and escalation.
 - Moodle logs, web-server logs, PHP logs, database logs, and monitoring dashboards.
@@ -18,6 +18,6 @@ Give teams a structured approach for diagnosing complex Moodle issues and improv
 - Root-cause analysis and corrective actions.
 - Runbooks, knowledge base articles, and post-incident review.
 
-## Trainer Notes
+## Hands-On Notes for You
 
-Use scenario-based practice. Encourage participants to state the evidence they need, the hypothesis they are testing, and the user impact of each troubleshooting step.
+During scenario practice, state the evidence they need, the hypothesis they are testing, and the user impact of each troubleshooting step.

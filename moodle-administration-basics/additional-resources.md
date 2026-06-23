@@ -24,7 +24,7 @@ The following resources are useful for Moodle administrators and technical suppo
 
 ## Suggested Next Learning Path
 
-After this introductory training, participants may continue with:
+After this introductory training, you may continue with:
 
 1. Moodle course administration training.
 2. Moodle teacher training.
@@ -32,6 +32,6 @@ After this introductory training, participants may continue with:
 4. Moodle backup and disaster recovery workshop.
 5. Moodle performance monitoring workshop.
 6. Moodle plugin evaluation and upgrade planning workshop.
-7. Moodle developer fundamentals, if participants will later build custom plugins.
+7. Moodle developer fundamentals, if you will later build custom plugins.
 
 ---

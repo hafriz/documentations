@@ -1,16 +1,16 @@
 # Module 2: Security and Access Control
 
-## Purpose
+## Why This Module Matters to You
 
-Strengthen participants' ability to manage Moodle securely across authentication, authorization, configuration, plugins, and operational review processes.
+This module strengthens your ability to manage Moodle securely across authentication, authorization, configuration, plugins, and operational review processes.
 
-## Learning Objectives
+## What You Will Be Able to Do
 
 - Review authentication and account-management risks.
 - Apply least-privilege thinking to roles and permissions.
 - Identify security risks from plugins, integrations, and administrator access.
 
-## Key Topics
+## Topics You Will Practice
 
 - Authentication methods and identity-provider dependencies.
 - Administrator accounts, role assignments, and privilege reviews.
@@ -18,6 +18,6 @@ Strengthen participants' ability to manage Moodle securely across authentication
 - Plugin risk review and update discipline.
 - Audit logs and incident-response handoff.
 
-## Trainer Notes
+## Hands-On Notes for You
 
 Avoid presenting security as a one-time configuration task. Frame it as a recurring operational process involving policy, review, monitoring, and documentation.

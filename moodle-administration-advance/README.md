@@ -1,21 +1,18 @@
 # Moodle Administration Advance
 
-## Title Page
+## Course Information for Trainees
 
 | Item | Details |
 |---|---|
 | **Training Title** | Moodle Administration Advance |
 | **Training Duration** | 2 Days, 9:00 AM – 4:00 PM |
-| **Training Style** | 45% presentation/demo, 35% guided technical walkthrough, 15% scenario practice, 5% Q&A |
-| **Target Audience** | Moodle administrators, senior technical support staff, system administrators, DevOps engineers, and LMS operations teams |
-| **Trainer Name** | _[Insert trainer name]_ |
-| **Training Date** | _[Insert date]_ |
-| **Organization** | _[Insert organization]_ |
+| **Learning Format** | Technical explanations, guided walkthroughs, production-style scenarios, hands-on planning exercises, and trainee reference notes |
+| **Who Should Attend** | Moodle administrators, senior technical support staff, system administrators, DevOps engineers, and LMS operations trainees |
 | **Version** | 1.0 |
 
 ## Documentation Structure
 
-A modular advanced trainer guide for teams that already understand Moodle basics and need deeper operational capability for production Moodle environments.
+A modular advanced trainee notes package for teams that already understand Moodle basics and need deeper operational capability for production Moodle environments. Use these notes during hands-on training as a step-by-step reference for architecture review, security review, performance investigation, automation planning, upgrade preparation, and incident response.
 
 ## Table of Contents
 

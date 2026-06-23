@@ -1,6 +1,6 @@
 # Exercises / Discussion Questions
 
-These activities are designed for beginner to intermediate technical participants. They can be completed individually, in pairs, or as small-group discussions.
+Use these trainee activities during hands-on practice. Complete them individually, in pairs, or as small-group discussions, and keep your answers as reference notes after training.
 
 ## Exercise 1: Identify the Component
 

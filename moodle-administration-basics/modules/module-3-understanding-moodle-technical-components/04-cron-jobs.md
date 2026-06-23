@@ -22,4 +22,4 @@ php /path/to/moodle/admin/cli/cron.php
 
 The exact command and schedule depend on the server environment.
 
-Trainer explanation: If cron is not running, Moodle may appear to work at first, but background features will slowly fail or become delayed. Notifications may not send, scheduled tasks may remain pending, and cleanup may not happen.
+Trainee note: If cron is not running, Moodle may appear to work at first, but background features will slowly fail or become delayed. Notifications may not send, scheduled tasks may remain pending, and cleanup may not happen.

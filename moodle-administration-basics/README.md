@@ -1,23 +1,20 @@
 # Moodle Administration Basics
 
-## Title Page
+## Course Information for Trainees
 
 | Item | Details |
 |---|---|
 | **Training Title** | Moodle Administration Basics |
 | **Training Duration** | 1 Day, 9:00 AM – 4:00 PM |
-| **Training Style** | 60% presentation/demo, 30% guided walkthrough, 10% Q&A |
-| **Target Audience** | Moodle technical staff, system administrators, and IT support staff |
-| **Trainer Name** | _[Insert trainer name]_ |
-| **Training Date** | _[Insert date]_ |
-| **Organization** | _[Insert organization]_ |
+| **Learning Format** | Short explanations, guided Moodle demonstrations, hands-on walkthroughs, and trainee reference notes |
+| **Who Should Attend** | Moodle technical staff, system administrators, IT support staff, and LMS support trainees |
 | **Version** | 1.0 |
 
 ## Documentation Structure
 
-A modular one-day trainer guide for beginner to intermediate Moodle technical staff, system administrators, and IT support staff.
+A modular one-day trainee notes package for beginner to intermediate Moodle technical staff, system administrators, IT support staff, and LMS support trainees.
 
-Each training topic is provided as its own Markdown file so trainers can export, reorder, or distribute topics independently. Module overview files contain timing, learning objectives, trainer notes, demos, real-world examples, and key takeaways.
+Each topic is provided as a Markdown reference so you can follow the hands-on session step by step, make notes during training, and return to the same workflow after the course. Module overview files contain timing, learning objectives, hands-on guidance, real-world examples, demos to follow, and key takeaways.
 
 ## Table of Contents
 

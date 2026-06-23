@@ -4,9 +4,9 @@
 **Duration:** 45 minutes  
 **Delivery style:** Presentation, checklist review, and discussion
 
-### Learning Objectives
+### What You Will Be Able to Do
 
-By the end of this module, participants should be able to:
+By the end of this module, you should be able to:
 
 - Describe routine Moodle maintenance tasks.
 - Understand what should be monitored.
@@ -23,12 +23,12 @@ By the end of this module, participants should be able to:
 - [Troubleshooting Workflow](04-troubleshooting-workflow.md)
 
 
-### Trainer Notes
+### Hands-On Notes for You
 
-- Encourage participants not to jump directly to solutions.
+- Do not jump directly to solutions.
 - Emphasize asking good questions before changing settings.
 - Show how one symptom may have multiple possible causes.
-- Remind participants to protect user data and avoid sharing sensitive screenshots.
+- Protect user data and avoid sharing sensitive screenshots.
 - Use simple case studies for discussion.
 
 ### Real-World Examples

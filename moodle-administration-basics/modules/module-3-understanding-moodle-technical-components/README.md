@@ -4,9 +4,9 @@
 **Duration:** 60 minutes  
 **Delivery style:** Presentation and technical walkthrough
 
-### Learning Objectives
+### What You Will Be Able to Do
 
-By the end of this module, participants should be able to:
+By the end of this module, you should be able to:
 
 - Identify the main Moodle technical components.
 - Explain the purpose of the Moodle code directory.
@@ -25,11 +25,11 @@ By the end of this module, participants should be able to:
 - [Backend Workflow](05-backend-workflow.md)
 
 
-### Trainer Notes
+### Hands-On Notes for You
 
 - Use a diagram showing browser, web server, Moodle code, database, `moodledata`, cron, and email service.
 - Avoid detailed database schema discussion.
-- Make sure participants understand that backup requires more than copying Moodle code.
+- Make sure you understand that backup requires more than copying Moodle code.
 - Emphasize the importance of `config.php`, but do not display real credentials in a live production environment.
 - If demonstrating command-line paths, use a training environment only.
 

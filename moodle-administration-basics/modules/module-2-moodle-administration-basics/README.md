@@ -4,9 +4,9 @@
 **Duration:** 75 minutes  
 **Delivery style:** Presentation, demo, and guided walkthrough
 
-### Learning Objectives
+### What You Will Be Able to Do
 
-By the end of this module, participants should be able to:
+By the end of this module, you should be able to:
 
 - Navigate the Site administration area.
 - Understand common administrative categories.
@@ -25,13 +25,13 @@ By the end of this module, participants should be able to:
 - [Activities Overview](05-activities-overview.md)
 
 
-### Trainer Notes
+### Hands-On Notes for You
 
 - Demonstrate navigation rather than explaining every setting.
-- Avoid overwhelming participants with every administration page.
+- Do not try to memorize every administration page during the first pass.
 - Focus on the settings they are most likely to support.
 - Use the terms authentication, enrolment, role, permission, and context repeatedly.
-- Encourage participants to ask: “Is this a login problem, a course access problem, or a permissions problem?”
+- Ask yourself: “Is this a login problem, a course access problem, or a permissions problem?”
 
 ### Real-World Examples
 
@@ -51,7 +51,7 @@ By the end of this module, participants should be able to:
 
 ### Guided Walkthrough Suggestion
 
-Ask participants to follow these steps in a training Moodle site:
+Follow these steps in a training Moodle site:
 
 1. Log in as an administrator or training manager.
 2. Open Site administration.

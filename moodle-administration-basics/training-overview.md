@@ -6,13 +6,13 @@ Moodle is an open-source Learning Management System, commonly called an LMS, use
 
 This one-day training introduces the essential concepts and daily administration tasks needed to support a Moodle site. The focus is not Moodle development. Instead, the training gives technical staff a practical foundation for understanding how Moodle works, where important administrative settings are located, and how to maintain a healthy Moodle environment.
 
-The training is designed for participants who may already understand general IT concepts such as users, servers, databases, files, backups, web applications, and scheduled jobs, but who are still new to Moodle administration.
+This training is designed for you if you already understand general IT concepts such as users, servers, databases, files, backups, web applications, and scheduled jobs, but who are still new to Moodle administration.
 
-By the end of the day, participants should be able to explain Moodle’s major components, perform common site administration tasks, recognize technical dependencies such as the database and `moodledata` directory, and follow a basic troubleshooting workflow when issues occur.
+By the end of the day, you should be able to explain Moodle’s major components, perform common site administration tasks, recognize technical dependencies such as the database and `moodledata` directory, and follow a basic troubleshooting workflow when issues occur.
 
 ## Training Objectives
 
-After completing this training, participants should be able to:
+After completing this training, you should be able to:
 
 1. Understand the basic architecture and components of Moodle.
 2. Perform essential Moodle administration tasks.
@@ -23,7 +23,7 @@ After completing this training, participants should be able to:
 
 ## Expected Outcomes
 
-Participants are expected to leave the training with the ability to:
+You should leave the training with the ability to:
 
 - Navigate the Moodle administration interface with confidence.
 - Describe the difference between Moodle application files, the database, and the `moodledata` file storage area.
@@ -38,7 +38,7 @@ Participants are expected to leave the training with the ability to:
 
 ## Prerequisites
 
-Participants should have beginner to intermediate technical knowledge. They do not need to be Moodle developers.
+You should have beginner to intermediate technical knowledge. You do not need to be a Moodle developer.
 
 Recommended prerequisites include:
 
@@ -49,7 +49,7 @@ Recommended prerequisites include:
 - Basic command-line awareness is helpful but not required.
 - Experience supporting users in an IT or helpdesk environment is helpful.
 
-Participants do not need:
+You do not need:
 
 - PHP programming experience.
 - Moodle plugin development knowledge.
@@ -70,22 +70,21 @@ Participants do not need:
 | 3:00 PM – 3:45 PM | Module 6: Maintenance and Troubleshooting | Maintenance checklist, monitoring, common issues, troubleshooting workflow |
 | 3:45 PM – 4:00 PM | Q&A | Final questions, recap, next steps |
 
-## Training Approach
+## How to Use These Trainee Notes During Hands-On Training
 
-This course uses a practical trainer-guide style. It is intended to support live delivery by a trainer and can also be provided to participants as a reference document.
+Use this document as your step-by-step reference while the live training is happening:
 
-Recommended delivery balance:
+1. Read the learning objectives before each module so you know what skill you are practicing.
+2. Follow the guided demonstration in a non-production Moodle site whenever access is available.
+3. Complete the hands-on steps in the order shown by the module or topic notes.
+4. Record your own site names, role names, URLs, policy constraints, and support contacts in the margins or in a copy of these notes.
+5. Pause before changing settings and identify the expected result, validation check, and rollback action.
+6. After each module, write one action you can safely apply in your own Moodle environment.
 
-- **60% presentation and demonstration**: Explain concepts, show screens, demonstrate administrative workflows.
-- **30% guided walkthrough**: Participants follow along with selected administration tasks.
-- **10% Q&A**: Allow short question periods during modules and a final Q&A session at the end.
+Recommended hands-on balance:
 
-Trainer recommendations:
-
-- Keep explanations beginner-friendly.
-- Avoid going too deep into source code, plugin development, or advanced server tuning.
-- Use real examples from university or institutional Moodle environments.
-- Ask participants to relate each module to their own support responsibilities.
-- Emphasize safe administration habits, backup awareness, and change management.
+- **60% observe and understand**: Watch the workflow, connect the screen actions to the underlying Moodle concept, and ask clarifying questions.
+- **30% follow along**: Repeat selected administration tasks in the training site.
+- **10% reflect and record**: Capture questions, local policy differences, and next actions for your support role.
 
 ---

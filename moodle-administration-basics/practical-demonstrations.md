@@ -1,10 +1,10 @@
 # Practical Demonstrations
 
-The following demonstrations are suitable for a one-day introductory training. Trainers should prepare a safe demo Moodle site, not a live production site.
+Use the following demonstrations as trainee notes during the one-day introductory training. Follow along in a safe demo Moodle site, not a live production site.
 
 ## Demo 1: Moodle User Experience Overview
 
-**Purpose:** Show Moodle from the perspective of different user roles.
+**Purpose:** Help you see Moodle from the perspective of different user roles.
 
 Steps:
 
@@ -24,7 +24,7 @@ Discussion points:
 
 ## Demo 2: Site Administration Navigation
 
-**Purpose:** Familiarize participants with the administration interface.
+**Purpose:** Help you become familiar with the administration interface.
 
 Steps:
 
@@ -42,7 +42,7 @@ Discussion points:
 
 ## Demo 3: Create and Manage a User
 
-**Purpose:** Demonstrate basic manual user administration.
+**Purpose:** Practice the basic flow of manual user administration.
 
 Steps:
 
@@ -61,7 +61,7 @@ Discussion points:
 
 ## Demo 4: Course Creation and Enrolment
 
-**Purpose:** Show basic course setup.
+**Purpose:** Practice the basic course setup sequence.
 
 Steps:
 
@@ -80,7 +80,7 @@ Discussion points:
 
 ## Demo 5: Add a Resource and Activity
 
-**Purpose:** Show the difference between resources and activities.
+**Purpose:** Practice identifying the difference between resources and activities.
 
 Steps:
 
@@ -99,7 +99,7 @@ Discussion points:
 
 ## Demo 6: Technical Components Walkthrough
 
-**Purpose:** Connect Moodle’s interface to backend components.
+**Purpose:** Connect the Moodle interface you use to the backend components that support it.
 
 Steps:
 

@@ -4,9 +4,9 @@
 **Duration:** 30 minutes  
 **Delivery style:** Presentation with short demo
 
-### Learning Objectives
+### What You Will Be Able to Do
 
-By the end of this module, participants should be able to:
+By the end of this module, you should be able to:
 
 - Explain what Moodle is and why organizations use it.
 - Describe the concept of a Learning Management System.
@@ -24,12 +24,12 @@ By the end of this module, participants should be able to:
 - [High-Level Architecture](05-high-level-architecture.md)
 
 
-### Trainer Notes
+### Hands-On Notes for You
 
 - Keep this module conceptual and visual.
 - Use a simple architecture diagram on a slide or whiteboard.
 - Avoid discussing PHP internals or database schema details.
-- Ask participants what systems their organization currently integrates with.
+- List the systems your organization currently integrates with.
 - Emphasize that Moodle administrators need both application awareness and basic infrastructure awareness.
 
 ### Real-World Examples

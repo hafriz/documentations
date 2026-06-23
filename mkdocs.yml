@@ -1,5 +1,5 @@
-site_name: Basic Moodle Administration Modules
-site_description: Modular Moodle administration training materials for basic and advanced administrator learning paths.
+site_name: Moodle Administration Training
+site_description: Modular Moodle administration training materials for beginner, intermediate, and advanced administrator learning paths.
 docs_dir: docs
 site_dir: site
 use_directory_urls: true
@@ -57,6 +57,21 @@ nav:
               - Monitoring: moodle-administration-basics/modules/module-6-maintenance-and-troubleshooting/02-monitoring.md
               - Common Issues: moodle-administration-basics/modules/module-6-maintenance-and-troubleshooting/03-common-issues.md
               - Troubleshooting Workflow: moodle-administration-basics/modules/module-6-maintenance-and-troubleshooting/04-troubleshooting-workflow.md
+  - Moodle Administration Intermediate:
+      - Overview: moodle-administration-intermediate/README.md
+      - Training Overview: moodle-administration-intermediate/training-overview.md
+      - Intermediate Practical Demonstrations: moodle-administration-intermediate/intermediate-practical-demonstrations.md
+      - Intermediate Exercises and Scenarios: moodle-administration-intermediate/intermediate-exercises-and-scenarios.md
+      - Administration Checklists: moodle-administration-intermediate/administration-checklists.md
+      - Intermediate Troubleshooting Scenarios: moodle-administration-intermediate/intermediate-troubleshooting-scenarios.md
+      - Additional Resources: moodle-administration-intermediate/additional-resources.md
+      - Modules:
+          - Course and User Operations: moodle-administration-intermediate/modules/module-1-course-and-user-operations/README.md
+          - Roles, Enrolments, and Groups: moodle-administration-intermediate/modules/module-2-roles-enrolments-and-groups/README.md
+          - Plugins, Themes, and Site Configuration: moodle-administration-intermediate/modules/module-3-plugins-themes-and-site-configuration/README.md
+          - Reporting, Analytics, and Data Quality: moodle-administration-intermediate/modules/module-4-reporting-analytics-and-data-quality/README.md
+          - Performance, Maintenance, and Automation: moodle-administration-intermediate/modules/module-5-performance-maintenance-and-automation/README.md
+          - Support, Troubleshooting, and Change Management: moodle-administration-intermediate/modules/module-6-support-troubleshooting-and-change-management/README.md
   - Moodle Administration Advance:
       - Overview: moodle-administration-advance/README.md
       - Training Overview: moodle-administration-advance/training-overview.md
@@ -74,8 +89,17 @@ nav:
           - Advanced Troubleshooting and Operations: moodle-administration-advance/modules/module-6-advanced-troubleshooting-and-operations/README.md
 
 theme:
-  name: mkdocs
-  navigation_depth: 3
+  name: material
+  features:
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.highlight
+    - search.suggest
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: blue
 
 markdown_extensions:
   - toc:
