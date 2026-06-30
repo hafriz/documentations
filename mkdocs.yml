@@ -7,6 +7,51 @@ use_directory_urls: true
 nav:
   - Home: index.md
   - Internal and Customized Applications: applications.md
+  - Application Documentation:
+      - elearning_dashboard: applications/elearning-dashboard.md
+      - coursevault: applications/coursevault.md
+      - scholarscan: applications/scholarscan.md
+      - quizguardian: applications/quizguardian.md
+      - PTG Reporting: applications/ptg-reporting.md
+      - Tester for e-Learning System: applications/tester-for-e-learning-system.md
+      - e-Learning Map: applications/e-learning-map.md
+      - ACE Dashboard: applications/ace-dashboard.md
+      - Access Coupon: applications/access-coupon.md
+      - Course Contacts: applications/course-contacts.md
+      - Course Rating: applications/course-rating.md
+      - e-Learning Simple Clock: applications/e-learning-simple-clock.md
+      - External Backup and Restore Courses: applications/external-backup-and-restore-courses.md
+      - Moodle Completion Progress: applications/moodle-completion-progress.md
+      - Moodle Game Activity: applications/moodle-game-activity.md
+      - Moodle Syllabus Activity: applications/moodle-syllabus-activity.md
+      - Moodle Super Video Activity: applications/moodle-super-video-activity.md
+      - Profile Initials Picture Generator: applications/profile-initials-picture-generator.md
+      - RemUI Course Format: applications/remui-course-format.md
+      - Semester Custom Field: applications/semester-custom-field.md
+      - MuTMS Training Custom Field: applications/mutms-training-custom-field.md
+      - Welcome Message Plugin: applications/welcome-message-plugin.md
+      - AlmondB Theme: applications/almondb-theme.md
+      - Moove Theme: applications/moove-theme.md
+      - Atto HTML Bootstrap Editor: applications/atto-html-bootstrap-editor.md
+      - HTML Bootstrap Editor Tool: applications/html-bootstrap-editor-tool.md
+      - Essay Similarity: applications/essay-similarity.md
+      - Honesty Check: applications/honesty-check.md
+      - Quiz Archive Worker: applications/quiz-archive-worker.md
+      - Quiz Proctoring: applications/quiz-proctoring.md
+      - QuizGuardian Proctor Plugin Template: applications/quizguardian-proctor-plugin-template.md
+      - Safe Exam Browser Server Plugin: applications/safe-exam-browser-server-plugin.md
+      - UNIMOODLE Kuet: applications/unimoodle-kuet.md
+      - Bank Payment Gateway: applications/bank-payment-gateway.md
+      - Billplz for Moodle: applications/billplz-for-moodle.md
+      - Moodle Telegram Integration: applications/moodle-telegram-integration.md
+      - Moodle Webhooks: applications/moodle-webhooks.md
+      - Laravel Application Generator: applications/laravel-application-generator.md
+      - Laravel Knowledge Base FAQ: applications/laravel-knowledge-base-faq.md
+      - Face Models CDN: applications/face-models-cdn.md
+      - Scrollocue: applications/scrollocue.md
+      - Teleprompt: applications/teleprompt.md
+      - e-Learning Documentation: applications/e-learning-documentation.md
+      - System Documentation: applications/system-documentation.md
   - Moodle Administration Basics:
       - Overview: moodle-administration-basics/README.md
       - Training Overview: moodle-administration-basics/training-overview.md
