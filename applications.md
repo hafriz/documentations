@@ -7,6 +7,17 @@ For subscription, purchase, or customization service enquiries related to any ap
 !!! note "Catalogue scope"
     Forked repositories are not removed automatically. If a fork is customized, adapted, configured, translated, branded, or maintained for e-Learning UMT operations, it remains in this catalogue. Generic upstream repositories that are only kept as references should be excluded from future updates.
 
+## Documentation Completeness and Repository Documentation Capture
+
+Each application page now includes a **Repository Documentation Capture** section so existing information from related repositories can be centralized safely. When a repository already has a README, plugin metadata, deployment guide, changelog, screenshots, route documentation, scheduled-task notes, or troubleshooting notes, summarize the useful operational details in that section.
+
+Use the following rules when completing the centralized pages:
+
+- Capture verified public-safe details from repository documentation, including purpose, main features, installation requirements, configuration points, dependencies, scheduled jobs, supported Moodle/Laravel/PHP versions, and known limitations.
+- Do not publish private repository URLs, credentials, API keys, tokens, database passwords, private server paths, or sensitive internal-only security details.
+- Mark gaps clearly when repository documentation is incomplete, outdated, or missing operational information such as owner, production URL, backup procedure, restore steps, support workflow, or upgrade notes.
+- Record the source document reviewed and the review date on the application page so future maintainers know whether the centralized documentation reflects the latest repository notes.
+
 ## Private / Internal Laravel and Web Applications
 
 | Application | URL | Description |
