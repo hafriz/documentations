@@ -58,11 +58,22 @@ This application documentation page centralizes the operational reference for Sy
 - Note whether the application depends on institutional authentication, course enrolment data, quiz data, reporting data, media assets, or external webhooks.
 - Keep environment-specific values, API keys, and private repository links out of this public documentation page.
 
+## Repository Documentation Capture
+
+Use this section to bring forward useful information that already exists in the related source repository, such as README notes, installation steps, configuration guidance, screenshots, route lists, CLI commands, scheduled jobs, changelog entries, or deployment instructions. The centralized application page should summarize that repository documentation instead of replacing it, so support staff can find the operational essentials here without exposing private repository links or secrets.
+
+When repository documentation is reviewed, record:
+
+- **Source document reviewed:** for example `README.md`, `docs/`, `CHANGELOG.md`, deployment notes, or plugin metadata.
+- **Repository-derived summary:** the verified purpose, features, installation requirements, configuration points, and known limitations that are safe to publish.
+- **Operational gaps:** missing owner, URL, environment, backup, dependency, troubleshooting, or upgrade information that still needs confirmation.
+- **Last repository documentation review:** date and reviewer.
+
 ## Change Log
 
 | Date | Change | Owner |
 |---|---|---|
-| 2026-06-30 | Initial centralized documentation page created from the application catalogue. | e-Learning UMT |
+| 2026-06-30 | Initial centralized documentation page created from the application catalogue; repository-documentation capture section added for existing README/docs details. | e-Learning UMT |
 
 ## Related Documentation
 
