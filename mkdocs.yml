@@ -97,6 +97,7 @@ nav:
               - Integrations: moodle-administration-basics/modules/module-5-customization-and-extensibility/03-integrations.md
               - Branding: moodle-administration-basics/modules/module-5-customization-and-extensibility/04-branding.md
               - Extending Moodle Features: moodle-administration-basics/modules/module-5-customization-and-extensibility/05-extending-moodle-features.md
+              - Hello World Block Plugin: moodle-administration-basics/modules/module-5-customization-and-extensibility/06-hello-world-block-plugin.md
           - Module 6 - Maintenance and Troubleshooting:
               - Overview: moodle-administration-basics/modules/module-6-maintenance-and-troubleshooting/README.md
               - Routine Maintenance Checklist: moodle-administration-basics/modules/module-6-maintenance-and-troubleshooting/01-routine-maintenance-checklist.md
